@@ -17,7 +17,7 @@ whatever. Go down one level. Don't be lazy. Understand the underlying code.
 
 Your models.py
 
-from djavetable.table import Table
+from djaveTable.table import Table
 
 def get_foos():
   return <a list of foos>
